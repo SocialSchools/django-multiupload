@@ -17,7 +17,7 @@ from setuptools import setup, find_packages
 from multiupload import __version__
 
 REQUIREMENTS = [
-    'django<=3.1',
+    'django==3.1.6',
 ]
 
 CLASSIFIERS = [
